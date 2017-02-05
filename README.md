@@ -5,3 +5,4 @@
 3. [正多边形自定义View,仿英雄联盟战绩](https://github.com/mengxin1995/AndroidCode/tree/master/%E8%87%AA%E5%AE%9A%E4%B9%89View/MyApplication)
 4. [贝赛尔曲线,有爱心，圆](https://github.com/mengxin1995/AndroidCode/tree/master/%E8%87%AA%E5%AE%9A%E4%B9%89View/Love)
 5. [Path运用搜索动画的实现](https://github.com/mengxin1995/AndroidCode/tree/master/%E8%87%AA%E5%AE%9A%E4%B9%89View/Path)
+6. [Camera 实现简单3d旋转效果](https://github.com/mengxin1995/AndroidCode/tree/master/%E8%87%AA%E5%AE%9A%E4%B9%89View/MyCamera)

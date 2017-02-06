@@ -1,0 +1,44 @@
+<component name="libraryTable">
+  <library name="support-v4-23.4.0">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/TestBitmap/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/TestCollapseView/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/TestCustomLayout/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/TestFlowLayout/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/TestPathEffect/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/TestRetrofit/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/TestRxJava/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/TestRxJavaAndRetrofit/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/TestShader/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/TestTouch1/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/TestTouch2/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/TestTouch3/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/TestTouch4/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/TextMatrix/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/TestBitmap/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/res" />
+      <root url="jar://$PROJECT_DIR$/TestBitmap/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TestBitmap/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
